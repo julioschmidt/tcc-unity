@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b68647f68c64e9047bfb9f54d98ef791
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 176432
+  packageName: Nightclub / Cocktail Bar
+  packageVersion: 2.0
+  assetPath: Assets/NightClub/Prefabs/Lights/LightCube_blue.prefab
+  uploadId: 771329

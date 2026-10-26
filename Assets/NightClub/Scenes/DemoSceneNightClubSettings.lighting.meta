@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 51d138a296943544ab9416296d2d05d1
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4890085278179872738
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 176432
+  packageName: Nightclub / Cocktail Bar
+  packageVersion: 2.0
+  assetPath: Assets/NightClub/Scenes/DemoSceneNightClubSettings.lighting
+  uploadId: 771329

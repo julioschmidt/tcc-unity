@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 67649455d520afe46b3fb928dfbea9ca
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 176432
+  packageName: Nightclub / Cocktail Bar
+  packageVersion: 2.0
+  assetPath: Assets/NightClub/Prefabs/Lights/LightCube_off.prefab
+  uploadId: 771329

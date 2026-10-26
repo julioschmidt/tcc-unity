@@ -1,0 +1,18 @@
+Low ploy city alley pack 
+The package contain two scenes i.e. Day and Night scene.
+whole scene is make with 13k Tris.
+All textures are handpainted with 4k size for both day and night scene.
+ideal to use with mobile, GearVr ,OculusGo.
+
+20+ efficiently modelled alley assets including :
+10 different buildings 
+dustbins
+bench
+firehydrant
+electricbox
+oiltank
+sewer
+barrels excetra.
+
+
+

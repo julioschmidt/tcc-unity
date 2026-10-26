@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0312e90e2c1339f4f8e4d015d90aafde
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 176432
+  packageName: Nightclub / Cocktail Bar
+  packageVersion: 2.0
+  assetPath: Assets/NightClub/Prefabs/Lights/MultiColor_LightCube.prefab
+  uploadId: 771329

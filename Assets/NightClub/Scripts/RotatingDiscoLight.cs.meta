@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 7150318fa7bea694cb20479dd0e8a9a0
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 176432
+  packageName: Nightclub / Cocktail Bar
+  packageVersion: 2.0
+  assetPath: Assets/NightClub/Scripts/RotatingDiscoLight.cs
+  uploadId: 771329

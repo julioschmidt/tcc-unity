@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3a08b78dc192d5743b52ebbcacf411b1
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 176432
+  packageName: Nightclub / Cocktail Bar
+  packageVersion: 2.0
+  assetPath: Assets/NightClub/Prefabs/Lights/LightCube_orange.prefab
+  uploadId: 771329
