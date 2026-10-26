@@ -9,6 +9,11 @@ Aplicação Unity de **Realidade Virtual** (RV) desenvolvida como Trabalho de Co
 | **Título** | Dependência química por cocaína: desenvolvimento e avaliação de um ambiente simulado por meio de realidade virtual |
 | **Repositório** | https://github.com/julioschmidt/tcc-unity |
 
+<p align="center">
+  <img src="docs/images/tccimagem.png" alt="Visão estereoscópica Cardboard — cena da rua noturna" width="720">
+</p>
+<p align="center"><em>Figura 1 — Cena da rua (visão estereoscópica Google Cardboard).</em></p>
+
 > **Atenção:** o conteúdo simula oferta e consumo de substâncias (cocaína/crack) com fins de pesquisa clínica. Não é um jogo recreativo. Uso em contexto experimental deve ocorrer sob supervisão profissional e com aprovação ética.
 
 ---
@@ -48,7 +53,7 @@ Fluxo em **primeira pessoa**, locomoção por **joystick** (gamepad) e interaç�
 
 ### Cena 1 — Rua (`Assets/Scenes/Rua.unity`)
 
-Ambiente urbano noturno, iluminação baixa, sons de rua. O usuário percorre uma rua com **seis encontros**:
+Ambiente urbano noturno, iluminação baixa, sons de rua. O usuário percorre uma rua com **seis encontros** (ver Figura 1 acima).
 
 | # | Situação | Painel SIM/NÃO |
 |---|----------|----------------|
@@ -64,6 +69,11 @@ Ao aproximar-se do prédio da balada, a transição automática leva à segunda 
 ### Cena 2 — Balada (`Assets/NightClub/Scenes/Balada.unity`)
 
 Ambiente interno com pista, bar e mesa de pôquer; luzes e música eletrônica. Progressão roteirizada: após cada encontro, teleporte suave para o próximo ponto (`SceneFlowController`).
+
+<p align="center">
+  <img src="docs/images/tccimagem2.png" alt="Visão estereoscópica Cardboard — mesa com personagens na balada" width="720">
+</p>
+<p align="center"><em>Figura 2 — Interior da balada / mesa de interação (visão estereoscópica).</em></p>
 
 | # | Situação | Painel SIM/NÃO |
 |---|----------|----------------|
